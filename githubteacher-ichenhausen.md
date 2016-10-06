@@ -1,4 +1,4 @@
-# Ichenhausen
+# Ichenhausen, Bavaria, Germany
 
 ## TODOs
 - Legoland
