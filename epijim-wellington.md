@@ -1,8 +1,10 @@
 # Wellington
 
-Is in **NZ**.
+It is in **NZ**.
 
-```R
+> It's the lord of the rings place.
+
+```r
 wellington <- "is good"
 
 paste("Wellington",wellington)
