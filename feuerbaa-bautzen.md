@@ -1,7 +1,10 @@
-## Bautzen
+# Bautzen
 
-# Characteristics
+## Characteristics
 
-# Places to see
 
-# Things to do
+## Places to see
+
+
+## Things to do
+
