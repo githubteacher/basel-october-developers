@@ -1,4 +1,4 @@
-# Bautzen
+# Bautzen, Saxony, Germany
 
 ## Places to see
 - Altstadt
@@ -15,6 +15,8 @@
 
 ## Places nearby
 - Dresden
-- Elbsandsteingebirg
+- Elbsandsteingebirge
 - Zittauer Gebirge
 - Braunkohletagebau
+
+Homepage: http://www.bautzen.de/
