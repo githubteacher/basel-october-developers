@@ -19,4 +19,4 @@
 - Zittauer Gebirge
 - Braunkohletagebau
 
-Homepage: http://www.bautzen.de/
+Homepage: www.bautzen.de/
