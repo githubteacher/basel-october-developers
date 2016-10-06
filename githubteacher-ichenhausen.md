@@ -3,3 +3,7 @@
 ## TODOs
 - Legoland
 - Schulmuseum
+
+## Eats
+- Schnitzel
+- Kässpätzle
