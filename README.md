@@ -13,9 +13,11 @@
 
 ### Resources
 - [Help with Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Octocat index](https://octodex.github.com/)
 
 
 
+![](https://octodex.github.com/images/nyantocat.gif)
 
 
 

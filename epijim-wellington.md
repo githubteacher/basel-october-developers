@@ -1,8 +1,12 @@
 # Wellington
 
-Is in **NZ**.
+It is in **NZ**.
 
-```R
+> It's the lord of the rings place.
+
+![](https://octodex.github.com/images/stormtroopocat.png)
+
+```r
 wellington <- "is good"
 
 paste("Wellington",wellington)
