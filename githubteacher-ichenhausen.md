@@ -1,4 +1,6 @@
-# Ichenhausen, :de:
+# Ichenhausen, Bavaria, Germany
+
+![](https://github.com/stoe.png)
 
 ## TODOs
 - Legoland
